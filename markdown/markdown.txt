@@ -1,0 +1,60 @@
+Testes:
+Negrito: **negrito** ou __negrito__
+Itálico: *itálico* ou _itálico_ 
+Tachado: ~tachado~
+Título nível 1:
+# título
+Título nível 2:
+## título
+Linha horizontal: --- ou ***
+---
+Misturando negrito e itálico: __*negrito e itálico*__
+
+Lista numerada: colocar 1.
+1. Teste
+2. Novo teste
+    1. subítem
+
+Lista demarcada: usa asterisco ou -
+* Teste
+   * subteste
+      * subteste
+
+Lista de tarefas: -espaço[espaço]. [x] marca a tarefa
+- [x] Criar página principal
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+   - [x] subtarefa
+
+Inserindo imagem: arrastar imagem para rodapé da Issue (Attach files by dragging & dropping, selecting ou pasting them)
+![Imagem_redim](https://github.com/marcosdonizete/repositorio_teste_github_pages/assets/22876557/9c3ccb6e-d77b-4d1a-bbe7-af027664d0d3)
+
+Inserir links: [Texto](link)
+[Acesse meu GitHub](https://github.com/marcosdonizete)
+
+Inserir Tabela:
+ID | Nome | Nota
+---|---|---
+1|Marcos|10.0
+2|Pamela|9.0
+3|Dionatan|8.0
+
+Fim da tabela
+
+Inserir trechos de código: colocar entre crases
+Função da tag `<mark>`
+Inserir código: colocar o código entre 3 crases e 4 espaços para identação
+````
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+````
+
+Inserir emojis: colocar dois pontos
+Emoji 🖖 
+Lista de emojis em: https://github.com/ikatyang/emoji-cheat-sheet
+
+Citações: clicar nos reticência. no canto superior da Issue e escolher Quote reply. Pode inserir sinal de maior tambem.
+> citação
